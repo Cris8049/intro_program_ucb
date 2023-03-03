@@ -9,9 +9,6 @@ int main() {
     cin>> x>>y;
     cout<< floor(x+y);
     return 0;
-    
-
-    
 }
 
 
